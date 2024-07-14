@@ -1,45 +1,46 @@
-# CODSOFT-TASK-1
-Here's a sample GitHub description for a portfolio repository:
+# Prasunet_WD_04
+# My Portfolio
 
----
+Welcome to my personal portfolio website. This site showcases my projects, skills, and experience as a web developer.
 
-## Portfolio
+## Table of Contents
 
-This repository contains the source code and assets for my personal portfolio website. The site showcases my skills, projects, and experiences as a web developer. It is designed to be a comprehensive and visually appealing representation of my work.
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contact](#contact)
 
-### Features
+## Overview
 
-- **Home Page**: An introduction to who I am, with a brief overview of my skills and experience.
-- **Projects Section**: Detailed descriptions of selected projects, including screenshots, live demos, and links to the source code.
-- **About Me**: Information about my background, education, and professional journey.
-- **Skills**: A list of technologies and tools I am proficient in.
-- **Contact Form**: A simple contact form for visitors to reach out to me directly.
+This is my personal portfolio website where you can find information about me, view my projects, and contact me. The site is fully responsive and designed to provide a seamless user experience across all devices.
 
-### Technologies Used
+## Features
 
-- **HTML5**: Markup language used to structure the content.
-- **CSS3**: Styling language used to design and layout the pages.
-- **JavaScript**: Programming language used to add interactivity and dynamic elements.
-- **Bootstrap**: CSS framework used for responsive design and grid layout.
-- **React.js**: JavaScript library used for building the user interface.
-- **Node.js**: Back-end JavaScript runtime used for server-side scripting (if applicable).
-- **Express.js**: Web application framework for Node.js (if applicable).
-- **MongoDB**: NoSQL database used for data storage (if applicable).
+- Responsive design
+- Home, About, Projects, Resume, Certifications, and Contact pages
+- Dynamic project showcase
+- Contact form with form submission handling
 
+## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
+- [Additional technologies like React, Node.js, etc., if used]
 
-### Contributing
+## Getting Started
 
-I welcome contributions to improve my portfolio. If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
+To get a local copy up and running, follow these steps:
 
-### Contact
+### Prerequisites
 
-For any inquiries or feedback, please reach out to me via:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Portfolio Website**: [your-portfolio-website.com](https://www.your-portfolio-website.com)
+- Git installed on your machine
+- A code editor like VSCode
 
-Thank you for visiting my portfolio repository!
+Contact
+If you have any questions or feedback, feel free to contact me:
 
----
-
+LinkedIn: linkedin.com/in/prakash-koutharapu-4509482b9/
+GitHub: github.com/prakash2204A
